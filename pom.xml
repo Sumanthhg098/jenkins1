@@ -14,10 +14,9 @@
 	<name>natixis-first-jenkins</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>11</java.version>
-		<maven.compiler.source>${java.version}</maven.compiler.source>
-    		<maven.compiler.target>${java.version}</maven.compiler.target>
+		<java.version>17</java.version>
 	</properties>
+	
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
